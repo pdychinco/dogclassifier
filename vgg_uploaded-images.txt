@@ -1,0 +1,11 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+
+Pet Image Label Dictionary has 4 key-value pairs.
+Below are 4 of them:
+ 1 key:                  Whale_01.jpeg  label:                      whale
+ 2 key:                    Dog_02.jpeg  label:                        dog
+ 3 key:               Squirrel_01.jpeg  label:                   squirrel
+ 4 key:                    Dog_01.jpeg  label:                        dog
